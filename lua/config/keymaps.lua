@@ -4,5 +4,5 @@
 
 local map = vim.keymap.set
 
-map("n", "<leader>at", "<cmd>CodeCompanion Toggle<cr>")
+map("n", "<leader>at", "<cmd>CodeCompanionChat Toggle<cr>")
 map("n", "<leader>ac", "<cmd>CodeCompanionChat<cr>")
